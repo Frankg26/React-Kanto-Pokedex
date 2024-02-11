@@ -3,7 +3,7 @@ const app = express();
 const { getPokemon } = require('./getPokemon.js')
 const port = process.env.PORT || 8080;
 
-app.use(express.static('../client/build'));
+app.use(express.static('client/build'));
 
 app.get('/pokemonSearch', async (req, res, next) => {
   try {
