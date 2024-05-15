@@ -10,6 +10,3 @@ To use the current build locally, download the repository and follow these steps
 2. In your browser, go to `http://localhost:8080/`
 
 </br>
-
-The current version of this application is hosted on the Google Cloud Platform via the Cloud Run Service. To view online, visit the URL:</br>
-https://react-kanto-pokedex-txucyztceq-uw.a.run.app/
