@@ -8,5 +8,3 @@ To use the current build locally, download the repository and follow these steps
 
 1. In a CLI window, navigate to the server directory and run the command `npm start`
 2. In your browser, go to `http://localhost:8080/`
-
-</br>
